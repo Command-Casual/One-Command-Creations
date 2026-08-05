@@ -1,0 +1,1 @@
+To use a command in this repository, simply copy the command, open up Minecraft (the commands are usually meant for the latest version of Java edition), paste the command into a command block, and set it to "Always Active".
